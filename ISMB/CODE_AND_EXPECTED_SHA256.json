@@ -1,18 +1,13 @@
 [
   {
-    "path": ".github/workflows/reproduction-smoke.yml",
-    "sha256": "e5d2068700b45e823aff1442ec79f9c3d5282d1fcca8ac8f1807ee33bf511af9",
-    "bytes": 587
-  },
-  {
     "path": ".gitignore",
     "sha256": "c1503f49791103a7ce3da8b6ef4afbd95082737cea911ce026d03300f63784f3",
     "bytes": 209
   },
   {
     "path": "CURSOR_PUBLICATION_GATE_CN.md",
-    "sha256": "08bbbb705529d6ee945375da9f6645cdb3f498728d76ab5acd97e4de62b7024d",
-    "bytes": 1801
+    "sha256": "c5644e0a3dae8539c8dbf90f547054cf251dbc70fe34eacd6551c75f10a1529f",
+    "bytes": 1513
   },
   {
     "path": "ENVIRONMENT_TESTED.txt",
@@ -20,19 +15,29 @@
     "bytes": 180
   },
   {
+    "path": "LICENSE",
+    "sha256": "ad36c59c563c272243fb3bdb60211d4803d6c6a46d58788a2aa38e6100fe78d0",
+    "bytes": 1089
+  },
+  {
+    "path": "NOTICE",
+    "sha256": "d63cd80444e496ae21b8cbec4bfbc5b6042d3acd6b5fb50a592f7cef46f5e056",
+    "bytes": 1060
+  },
+  {
     "path": "PUBLICATION_HOLD.md",
-    "sha256": "61efcdc38d7fb8db59d4796113b813c2bab20e64615789822b21efc6c206d685",
-    "bytes": 1024
+    "sha256": "3e81bbb13bb88f96d9c1e976bd899f87c6d98972fffe6c4fbb18d9ec4c9b8928",
+    "bytes": 1491
   },
   {
     "path": "README.md",
-    "sha256": "4335ee67f01598f69b71522ee72c83af6433122224d391afbc0bc55b02e5d777",
-    "bytes": 4776
+    "sha256": "82406ad2f6493e4c384e51faeae528efa25ff08cdd5df3c9735902b9dc3db5cd",
+    "bytes": 4868
   },
   {
     "path": "README_FIRST_CN.md",
-    "sha256": "20e9e6e301a31b50bc1239d21ea2c8231387e3f2e8d22673d4ca30bf5ab7b9c5",
-    "bytes": 1055
+    "sha256": "14a972a96df96edc4cb8f009df7457eeef5ddb6c8aac37c8eeb7eeb9ae7043b6",
+    "bytes": 1359
   },
   {
     "path": "expected/r10_human_seed0.csv.gz",
@@ -148,5 +153,10 @@
     "path": "tools/run_smoke.py",
     "sha256": "441c1666fac9b6ab9dc6bce4859a87ccbb008b3bcaceb0f53528a34c3b152357",
     "bytes": 2489
+  },
+  {
+    "path": "tools/verify_release.py",
+    "sha256": "1a8b5b0c91c49959a0ea801f391ec650febbd718f9480da8ff25fdf3c9eda996",
+    "bytes": 1578
   }
 ]
