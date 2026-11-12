@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+smoke_logs/
+r8/analysis/strict_winner_experiment/results/
+r8/analysis/strict_winner_experiment/input/
+r9/analysis/r8_reference/input/
+r9/smoke/
+r10/analysis/r8_reference/input/
+r10/results/
