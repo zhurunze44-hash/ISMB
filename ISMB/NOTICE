@@ -1,0 +1,21 @@
+Third-party and data notices
+============================
+
+This repository's original analysis code is released under the MIT License
+(see LICENSE). That grant covers author-controlled original code only.
+
+Upstream public inputs are NOT redistributed in this repository. They must be
+obtained by the user via `tools/prepare_inputs.py` from the pinned Git commits
+documented in `provenance/public_input_manifest.json` and
+`provenance/UPSTREAM_CITATION_AND_RIGHTS.md`.
+
+- spxuw/PPI-Prediction-Project (pinned commit): upstream repository LICENSE is
+  MIT; separate dataset redistribution terms for HuRI / experimental validation
+  tables must still be respected by end users.
+- CCSB-DFCI/ai-interactome-experimental-assessment (pinned commit): upstream
+  repository LICENSE is MIT; this repository ships only author-derived yeast
+  masks for R10 derived-mask replay, not the raw GPCA/MAPPIT TSV, and does not
+  claim raw-to-mask lineage completeness.
+
+Do not treat upstream MIT repository licenses as automatic permission to
+re-host all raw experimental tables.

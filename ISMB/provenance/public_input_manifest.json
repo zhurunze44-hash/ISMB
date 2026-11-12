@@ -1,0 +1,24 @@
+{
+  "human_git_repo": "spxuw/PPI-Prediction-Project",
+  "human_commit": "5e2f7beb596987de7b97a0cf48900915a64aad99",
+  "original_files": {
+    "HuRI.csv": {
+      "github_path": "Interactomes/HuRI.csv",
+      "git_blob_sha1": "46fec1d9554d07f165312313f1e5f9b6156e8aa3",
+      "sha256": "c312a9ae5f24479944775287624604db6e449a435011874d201224263f3fdc4c"
+    },
+    "PPI_prediction_validation_result_20210624.xls": {
+      "github_path": "Experimental validation/PPI_prediction_validation_result_20210624.xls",
+      "git_blob_sha1": "7fb2a36b96b87e47cf8178544286d9db3c0e7e3e",
+      "sha256": "062a8762ba05ba330a49386394e638926f6dc960cdc54bd1792a031cbeff18ca"
+    }
+  },
+  "yeast_original": {
+    "github_repo": "CCSB-DFCI/ai-interactome-experimental-assessment",
+    "commit": "fb05ab3ca2cc0fcaf402bb0df568e95a5158178b",
+    "path": "supplementary_tables/GPCA_and_MAPPIT.tsv",
+    "git_blob_sha1": "7da81e62b9ed0a0061f31f6f0b8572e2d0fdade1",
+    "scope": "Original pinned table identity validated; no row-level backtrace from 74 masks"
+  },
+  "yeast_74_mask_sha256": "ce2338d66387b59c7321c3be5827efb180436054f2b96564910c363549df2396"
+}
